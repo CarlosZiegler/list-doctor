@@ -1,4 +1,4 @@
-# Get Repositories Info
+# List Doctors Berlin
 > This is a sample Project with ReactJS to get Profil and Repositories information from Github
 
 
@@ -9,24 +9,28 @@
 
 
 ## Description
-Project with ReactJS for get a Profil and Repositories from user Github.
+Project with ReactJS for list a Doctors in Berlin.
 
-The tutorial is on the [jscasts](https://jscasts.teachable.com).
-Best of all, it's free.
-Thank you @jscasts
+
 
 
 ## Usage example
 
 
-[https://carlosziegler.github.io/profil-github-react-bootstrap/](https://carlosziegler.github.io/profil-github-react-bootstrap/)
+[https://carlosziegler.github.io/list-doctor/](https://carlosziegler.github.io/list-doctor/)
+
+## Repository Clone :
+ ```bash
+ git clone https://github.com/CarlosZiegler/list-doctor/.git
+     
+ ```
 
 
 ## Installation
 
 
 ```sh
-npm install profil-github-react-bootstrap --save
+npm install list-doctor
 ```
 
 ## Frontend building with:
@@ -35,15 +39,10 @@ npm install profil-github-react-bootstrap --save
 
 
 
-## Repository Clone :
- ```bash
- git clone https://github.com/CarlosZiegler/profil-github-react-bootstrap.git
-     
- ```
 
 ### Install Dependences Frontend
  ```bash
-cd profil-github-react-bootstrap
+cd list-doctor
 yarn install
     
  ```
@@ -52,18 +51,16 @@ yarn install
      
 ### Running Frondend
  ```bash
- cd profil-github-react-bootstrap
+ cd list-doctor
  yarn start
  ```
 
 ## Information of Packages:
 
 
-* [AXIOS](https://www.npmjs.com/package/axios) 
+
 * [REACT](https://www.npmjs.com/package/react)
-* [REACT-ROUTER-DOM](https://www.npmjs.com/package/react-router-dom)
 * [React-Scripts](https://www.npmjs.com/package/react-scripts)
-* [Prop-Types](https://www.npmjs.com/package/prop-types)
 * [gh-pages](https://www.npmjs.com/package/gh-pages)
    
    
